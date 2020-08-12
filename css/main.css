@@ -1,0 +1,13 @@
+.myBody{
+    margin-top: 10%;
+}
+
+input{
+
+    width: 90%;
+    border: 2px sloid lightgreen;
+    border-radius: 6px;
+    text-align: center;
+    margin: 6px 5px;
+    padding: 4px 4px;
+}
